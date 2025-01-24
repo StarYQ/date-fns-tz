@@ -1,4 +1,3 @@
-/* eslint-env mocha */
 import assert from 'power-assert'
 import { getDaylightSavingTimeOffset } from './index.js'
 
